@@ -1,8 +1,8 @@
 # The Parity Public License 7.0.0
 
-Contributor: $name
+Contributor: Sako
 
-Source Code: $address
+Source Code: https://github.com/SAKO4444GODZ/Keyboard-Clicker/edit/master/LICENSE.md
 
 ## Purpose
 
